@@ -1,2 +1,1 @@
-# Common_algorithm
-Common algorithm
+# PageRank_Python
